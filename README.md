@@ -11,8 +11,6 @@
   ⚡ Fun fact: My favorite soccer team is Barcelona.
 </p>
 
-<img align="right" height="150" src="https://th.bing.com/th/id/R.70f2cb767924d3744a48b58d90a7505?rik=yoboGzVanDm2CQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f_yx2j3x8fvcu%2fT7...
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -47,5 +45,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/your_robot_gif_here.gif" alt="Robot GIF" height="200" />
+  <img src="https://th.bing.com/th/id/R.70f2cb767924d3744a48b58d090a7505?rik=yoboGzVanDm2CQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f-v5kigKQTTQ8%2fUGw7WXlaG2I%2fAAAAAAAABcY%2fJmOa-rVq8Cc%2fs1600%2fyorobot2.gif&ehk=pvN5Xobfdxe9IQvjr3P3XtWAc7gaqShqEk9r6ilmPxw%3d&risl=&pid=ImgRaw&r=0" alt="Robot GIF" height="200" />
 </div>
