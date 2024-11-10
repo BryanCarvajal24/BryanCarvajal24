@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bryan Carvajal and I'm a Data and IA Engineer.</h2>
+<h2 align="left">Hi 👋! My name is Bryan Carvajal and I'm a Data and AI Engineer.</h2>
 
 <p align="left">
   🎓 I'm studying at Autonoma de Occidente University.<br>
