@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bryan Carvajal and I'm a Data and IA Engineer from Colombia.</h2>
+<h2 align="left">Hi 👋! My name is Bryan Carvajal and I'm a Data and IA Engineer.</h2>
 
 <p align="left">
   🎓 I'm studying at Autonoma de Occidente University.<br>
@@ -47,3 +47,4 @@
 <div align="center">
   <img src="https://th.bing.com/th/id/R.70f2cb767924d3744a48b58d090a7505?rik=yoboGzVanDm2CQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f-v5kigKQTTQ8%2fUGw7WXlaG2I%2fAAAAAAAABcY%2fJmOa-rVq8Cc%2fs1600%2fyorobot2.gif&ehk=pvN5Xobfdxe9IQvjr3P3XtWAc7gaqShqEk9r6ilmPxw%3d&risl=&pid=ImgRaw&r=0" alt="Robot GIF" height="200" />
 </div>
+
